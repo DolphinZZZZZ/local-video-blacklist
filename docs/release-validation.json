@@ -1,0 +1,21 @@
+{
+  "Version": "1.2.0",
+  "CoreTestsPassed": 18,
+  "CoreTestsFailed": 0,
+  "ActualExeSmokeTestPassed": true,
+  "DefaultBlacklist": "blacklist.txt",
+  "DefaultBlacklistRelativeTo": "ExecutableDirectory",
+  "DifferentWorkingDirectoryVerified": true,
+  "InitialRegistrationAndRecycleVerified": true,
+  "RenamedDuplicateRecycleVerified": true,
+  "FirstTimestampPreserved": true,
+  "RuntimeRootItems": [
+    "本地视频拉黑.exe",
+    "blacklist.txt",
+    "app"
+  ],
+  "LogsIn": "app/logs",
+  "BinaryPersonalInformationScanPassed": true,
+  "TestMedia": "synthetic fixture",
+  "VerifiedAtUtc": "2026-10-19T02:45:46.7091794Z"
+}

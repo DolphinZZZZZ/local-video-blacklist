@@ -1,0 +1,10 @@
+/build/
+/dist/
+/work/
+/blacklist.txt
+/app/logs/
+/vendor/ffprobe.exe
+*.pdb
+*.user
+*.zip
+*.jsonl
